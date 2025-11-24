@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\patterns\bin\Debug\net8.0\patterns.exe
+C:\Users\user\source\repos\patterns\bin\Debug\net8.0\patterns.deps.json
+C:\Users\user\source\repos\patterns\bin\Debug\net8.0\patterns.runtimeconfig.json
+C:\Users\user\source\repos\patterns\bin\Debug\net8.0\patterns.dll
+C:\Users\user\source\repos\patterns\bin\Debug\net8.0\patterns.pdb
+C:\Users\user\source\repos\patterns\obj\Debug\net8.0\patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\patterns\obj\Debug\net8.0\patterns.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\patterns\obj\Debug\net8.0\patterns.AssemblyInfo.cs
+C:\Users\user\source\repos\patterns\obj\Debug\net8.0\patterns.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\patterns\obj\Debug\net8.0\patterns.dll
+C:\Users\user\source\repos\patterns\obj\Debug\net8.0\refint\patterns.dll
+C:\Users\user\source\repos\patterns\obj\Debug\net8.0\patterns.pdb
+C:\Users\user\source\repos\patterns\obj\Debug\net8.0\patterns.genruntimeconfig.cache
+C:\Users\user\source\repos\patterns\obj\Debug\net8.0\ref\patterns.dll
